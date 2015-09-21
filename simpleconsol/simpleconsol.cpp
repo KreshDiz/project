@@ -54,6 +54,7 @@ cout  << endl;
 cout  << endl;
 cout << QString :: fromUtf8("Изменение для Gid!") << endl;
 cout << QString :: fromUtf8("Изменение для Gid! второе измнение") << endl;
+cout << QString :: fromUtf8("Изменение для Gid! третье измнение") << endl;
         return 0;
 }
 
